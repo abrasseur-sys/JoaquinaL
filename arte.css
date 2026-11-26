@@ -1,0 +1,77 @@
+.imagenes{
+    height: 15em;
+    width: 15em;
+    
+}
+
+h1 {
+    color:rgb(255, 197, 197);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    
+    }
+
+p{
+    color:rgb(255, 197, 197);
+    font-family:cursive;
+}
+
+body {
+    background-image: url("descarga\ \(1\).jfif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.hero {
+    background-color: rgb(109, 8, 8);
+    padding: 5rem 10%;
+    border-bottom-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+}
+
+
+nav {
+    background-color: rgb(255, 197, 197);
+    padding: 0,8rem;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: var(--color-texto);
+    
+}
+
+nav ul li a {
+    color: darkred;
+    font-weight: bold;
+}
+
+main{
+    max-width: 1000px;
+    margin: 3rem auto;
+   
+}
+
+section{
+    margin-bottom: 3rem;
+    background: rgb(109, 8, 8);
+    padding: 1.5rem;
+    border-radius: 2rem;
+}
+
+
+section h2 {
+    color: rgb(255, 197, 197);
+    margin-bottom: 0.8rem;
+}
+
+
+    
+
